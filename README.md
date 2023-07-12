@@ -1,6 +1,6 @@
 # searchengine
 
-Search any query from Google custom search API. The app is built using BLoC pattern.
+Search any query from Google custom search API. The app is built using Flutter BLoC pattern.
 
 <img src="./README_images/search_engine_screen.gif" width="300" height="534"/>
 
